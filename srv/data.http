@@ -1,0 +1,5 @@
+### Get Accounts
+GET http://localhost:4004/ride-aid/Accounts
+
+### Get Persons
+GET http://localhost:4004/ride-aid/Persons 

@@ -1,0 +1,5 @@
+role;description
+Account Owner;Full administrative rights to the account. Responsible to pay the bill for the app, once we commercialize the app.
+Caregiver;Can view rides. By default, can schedule rides.
+Traveler;Travels. By default, can schedule rides to locations aprroved for them
+Viewer;Can view the rides
