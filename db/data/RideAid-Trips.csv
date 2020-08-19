@@ -1,2 +1,2 @@
 id;booked;traveler_id;appointment_id;start.string;start.lat;start.long;destination.string;destination.lat;destination.long;scheduledAt;scheduledTimeMeaning
-f14fd6f0-5b1c-4146-833c-f036f9adf2ba;FALSE;5ff44187-3882-49c3-8059-6eb3d3682172;3bba74c8-114c-4a79-935e-3d04effdd149;3821 West Chester Pike Newtown Sq. PA;39.98622;-75.40975;3999 West Chester Pike Newtown Sq. PA;39.98563;-75.41624;44075.4583333333;A
+f14fd6f0-5b1c-4146-833c-f036f9adf2ba;FALSE;5ff44187-3882-49c3-8059-6eb3d3682172;3bba74c8-114c-4a79-935e-3d04effdd149;3821 West Chester Pike Newtown Sq. PA;39.98622;-75.40975;3999 West Chester Pike Newtown Sq. PA;39.98563;-75.41624;2020-09-01T15:00:00Z;A
